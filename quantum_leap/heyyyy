@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name = "viewport" content="width=device-width" initial-scale="1.0">
+    <title>Quantum Leap</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="navbar">
+            <img src="images/bms.jpg" alt="bms" class ="logo">
+            <nav>
+                <ul>
+                    <li><a href="">HHHssss</a></li>
+                    <li><a href="">assasasss</a></li>
+                    <li><a href="">dssssss</a></li>
+                </ul>
+            </nav>
+            <img src="images/microsoft_.jpg" alt="ms" class ="ms">
+
+        </div>
+        <div class="row">
+            <div class="col-1">
+                <h1>Quantum <br>Leap</h1>
+                <h3>Some random gyaan wala quote for motivation</h3>
+                <br>
+                <p>Thoda gyaan apne event k baare mei aur kyu join karna chahiye isse
+                    and blah blah blah blah sjkldmbhnjdasdfcgvbhnjmccfvghbnmdcfgvhbjnmcfvghbjn
+                </p>
+                <button type="button"><strong>Google Form</strong> <img src="images/right-arrow.png" class="btn" alt=""></button>
+            </div>
+            <div class="col-2">
+                <img src="images/main.png" alt="qtm" class="quantum">
+                <div class="color-box"></div>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
